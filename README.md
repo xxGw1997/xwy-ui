@@ -1,5 +1,11 @@
 # xwy-ui
 
+A ui by Vue
+
+Author:ywx
+
+license:MIT
+
 ## Project setup
 ```
 npm install
