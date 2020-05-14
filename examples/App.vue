@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <xr-test></xr-test> -->
-    <x-button>123</x-button>
+    <x-button></x-button>
   </div>
 </template>
 
